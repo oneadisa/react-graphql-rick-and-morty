@@ -2,7 +2,7 @@ import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
 import CharacterList from './pages/charactersList';
-import {Routes, Route} from 'react-router'
+import {Routes, Route} from 'react-router-dom'
 import Character from './pages/character';
 
 function App() {
